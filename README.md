@@ -11,3 +11,6 @@ Notes
 3. I will add some screenshots  
 4. The maven pom file has the webdriver and junit dependencies  
 5. This example does not run via the command line using say ANT ( I will add this in later)  
+
+
+![Alt text](/docs/ecpise-run-junit.png?raw=true "Eclipse - jUnit run")
